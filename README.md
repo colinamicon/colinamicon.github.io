@@ -1,6 +1,8 @@
 # Colin Amicon
 ## Software Engineer and Web Developer
 
+*This website is under construction*
+
 ### Java, Angular, Python, JavaScript, Unity Game Engine
 
 # Java
