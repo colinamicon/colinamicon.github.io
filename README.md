@@ -27,6 +27,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+# Web Development
+
 ### Gracie Sarasota
 [https://gracie-sarasota.com/]
 
