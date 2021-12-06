@@ -16,4 +16,6 @@ coming soon!
 
 # Web Development
 ## Custom Wordpress Designs:
-### [Gracie Sarasota](https://gracie-sarasota.com/)
+### <a href="https://gracie-sarasota.com/" target="_blank">Gracie Sarasota</a>
+
+
