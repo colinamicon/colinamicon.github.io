@@ -1,7 +1,7 @@
 # Colin Amicon
-Software Engineer and Web Developer
+## Software Engineer and Web Developer
 
-Java, Angular, Python and JavaScript
+### Java, Angular, Python and JavaScript
 
 # Java
 coming soon!
