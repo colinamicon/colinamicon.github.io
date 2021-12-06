@@ -1,9 +1,19 @@
-# colinamicon.github.io
+# Colin Amicon: Software Engineer and Web Developer
 
-## Colin Amicon: Software Engineer and Web Developer
+Software engineer programming in Java, Angular, Python and JavaScript
 
-Test!
+# Java
+coming soon!
+
+# Angular
+coming soon!
+
+# Python
+coming soon!
+
+# JavaScript
+coming soon!
 
 # Web Development
-
+## Custom Wordpress Designs:
 ### [Gracie Sarasota](https://gracie-sarasota.com/)
